@@ -16,7 +16,7 @@
 > 每当感觉需要以注释说明点什么的时候,可以把需要说明的东西写进一个独立的函数,并以其用途命名（Extract Method）
 
 * 过大的类(Large Class)
-> 
+
 * 过长的参数列(Long Parameter List)
 >![代码质量改善](code_quality_improve_images/代码质量改善.png)
 > 1. Introduce Parameter Object
