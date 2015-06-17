@@ -4,6 +4,7 @@
 ## 坏的代码
 
 * 重复的代码(Duplicated Code)
+
 > 1. Extract Method
 > 2. Pull Up Method
 > 3. Template Mehtod
@@ -13,16 +14,19 @@
 > 7. 统一的异常处理
 
 * 过长的函数(Long Method)
+
 > 每当感觉需要以注释说明点什么的时候,可以把需要说明的东西写进一个独立的函数,并以其用途命名（Extract Method）
 
 * 过大的类(Large Class)
 
 * 过长的参数列(Long Parameter List)
-> ![代码质量改善](code_quality_improve_images/代码质量改善.png)
+![代码质量改善](code_quality_improve_images/代码质量改善.png)
 > 1. Introduce Parameter Object
 
 * 代码的不整洁
+
 >  空格  换行 一行太长，太多的方法调用
+
 > ![代码质量改善2](code_quality_improve_images/代码质量改善2.png)
 > ![代码质量改善4](code_quality_improve_images/代码质量改善4.png)
 > #### 对比一下(执行了代码格式化后)
