@@ -43,6 +43,7 @@
 
 * 使用基本数据类型的对象类型
 * 分层结构体系
+
 >  ![代码质量改善5](code_quality_improve_images/代码质量改善5.png)
 
 >  1. Controller 层 ：web参数处理
