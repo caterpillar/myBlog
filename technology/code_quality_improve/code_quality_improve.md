@@ -21,16 +21,17 @@
 
 * 过长的参数列(Long Parameter List)
 ![代码质量改善](code_quality_improve_images/代码质量改善.png)
+
 > 1. Introduce Parameter Object
 
 * 代码的不整洁
 
 >  空格  换行 一行太长，太多的方法调用
 
-> ![代码质量改善2](code_quality_improve_images/代码质量改善2.png)
-> ![代码质量改善4](code_quality_improve_images/代码质量改善4.png)
+![代码质量改善2](code_quality_improve_images/代码质量改善2.png)
+![代码质量改善4](code_quality_improve_images/代码质量改善4.png)
 > #### 对比一下(执行了代码格式化后)
-> ![代码质量改善3](code_quality_improve_images/代码质量改善3.png)
+![代码质量改善3](code_quality_improve_images/代码质量改善3.png)
 
 > 1. 养成良好的编码习惯
 > 2. 经常使用代码格式化
@@ -39,13 +40,15 @@
 
 * 多使用临时变量,并给临时变量取一个好的名字 意义明确
 * 使用的时候再申明临时变量
+
 > 1. 易读
 > 2. 节省内存
-> ![代码质量改善1](code_quality_improve_images/代码质量改善1.png)
+
+![代码质量改善1](code_quality_improve_images/代码质量改善1.png)
 
 * 使用基本数据类型的对象类型
 * 分层结构体系
-> ![代码质量改善5](code_quality_improve_images/代码质量改善5.png)
+![代码质量改善5](code_quality_improve_images/代码质量改善5.png)
 
 >  1. Controller 层 ：web参数处理
 >  2. Service层：业务逻辑
@@ -53,15 +56,17 @@
 
 * 类和方法的职责单一
 * 多用异常返回非预期的结果,而不是返回值
-> ![代码质量改善6](code_quality_improve_images/代码质量改善6.png)
-> ![代码质量改善7](code_quality_improve_images/代码质量改善7.png)
-> ![代码质量改善8](code_quality_improve_images/代码质量改善8.png)
+![代码质量改善6](code_quality_improve_images/代码质量改善6.png)
+![代码质量改善7](code_quality_improve_images/代码质量改善7.png)
+![代码质量改善8](code_quality_improve_images/代码质量改善8.png)
 
 * 让代码说明一切,而不是注释
-> ![代码质量改善9](code_quality_improve_images/代码质量改善9.png)
+![代码质量改善9](code_quality_improve_images/代码质量改善9.png)
 
 ## 快捷操作
+
 > ### 下面是一些idea 快捷键和操作
+
 * Extract Method(Ctl+Alt+M)
 * Pull Up Method(Pull Members Up/Down)
 * Pull Up Method(SuperClass)
