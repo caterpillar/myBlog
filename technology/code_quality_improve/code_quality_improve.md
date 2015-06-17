@@ -18,7 +18,7 @@
 * 过大的类(Large Class)
 > 
 * 过长的参数列(Long Parameter List)
->![代码质量改善](code_quality_improve_images\代码质量改善.png)
+>![代码质量改善](code_quality_improve_images\\代码质量改善.png)
 > 1. Introduce Parameter Object
 
 * 代码的不整洁
