@@ -30,7 +30,9 @@
 
 ![代码质量改善2](code_quality_improve_images/代码质量改善2.png)
 ![代码质量改善4](code_quality_improve_images/代码质量改善4.png)
+
 > #### 对比一下(执行了代码格式化后)
+
 ![代码质量改善3](code_quality_improve_images/代码质量改善3.png)
 
 > 1. 养成良好的编码习惯
@@ -40,11 +42,12 @@
 
 * 多使用临时变量,并给临时变量取一个好的名字 意义明确
 * 使用的时候再申明临时变量
+![代码质量改善1](code_quality_improve_images/代码质量改善1.png)
 
 > 1. 易读
 > 2. 节省内存
 
-![代码质量改善1](code_quality_improve_images/代码质量改善1.png)
+
 
 * 使用基本数据类型的对象类型
 * 分层结构体系
