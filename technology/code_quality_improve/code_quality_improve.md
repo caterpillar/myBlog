@@ -35,15 +35,12 @@
 
 * 多使用临时变量,并给临时变量取一个好的名字 意义明确
 * 使用的时候再申明临时变量
-
 > 1. 易读
 > 2. 节省内存
-
 > ![代码质量改善1](code_quality_improve_images/代码质量改善1.png)
 
 * 使用基本数据类型的对象类型
 * 分层结构体系
-
 >  ![代码质量改善5](code_quality_improve_images/代码质量改善5.png)
 
 >  1. Controller 层 ：web参数处理
